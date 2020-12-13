@@ -6,3 +6,5 @@ Un super blog para Platzi
 + creado por Super Javi
 + tiene ejemplos de codigo en python
 + tiene un doc un versiones
+
+## Para todas las edades
